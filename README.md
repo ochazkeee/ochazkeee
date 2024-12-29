@@ -43,7 +43,7 @@
         <td style="padding: 10px;">Domain Knowledge</td>
         <td style="padding: 10px;">
             <img src="https://img.shields.io/badge/-Machine%20Learning-01D277?style=flat&logoColor=white" alt="Machine Learning Badge"> 
-            <img src="https://img.shields.io/badge/-Computer%20Vision-%23dbd24d?style=flat&logoColor=white" alt="Computer Vision Badge"> 
+            <img src="https://img.shields.io/badge/-Computer%20Vision-%23fcf479?style=flat&logoColor=white" alt="Computer Vision Badge"> 
             <img src="https://img.shields.io/badge/-Software%20Development-FF6600?style=flat&logoColor=white" alt="Software Development Badge">
         </td>
     </tr>
