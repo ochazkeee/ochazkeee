@@ -9,7 +9,7 @@
 </div>
 
 <!-- my-skills -->
-<div style="text-align: center; margin-bottom: 30px;">
+<div align=" center", margin-bottom: 30px;>
     <h2>Tech Stack</h2>
 </div>
 
