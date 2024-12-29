@@ -52,7 +52,7 @@
         <td style="padding: 10px;">
             <img src="https://img.shields.io/badge/-Git-004400?style=flat&logo=git&logoColor=white" alt="Git Badge"> 
             <img src="https://img.shields.io/badge/-GitHub-444444?style=flat&logo=github" alt="GitHub Badge"> 
-            <img src="https://img.shields.io/badge/-Anaconda-%2327ba0d?style=flat&logo=Anaconda" alt="Anaconda Badge">
+            <img src="https://img.shields.io/badge/-Anaconda-%2327ba0d?style=flat&logo=Anaconda&logoColor=white" alt="Anaconda Badge">
             <img src="https://img.shields.io/badge/-Slack-%2327ba0d?style=flat&logo=Slack" alt="Slack Badge">
         </td>
     </tr>
