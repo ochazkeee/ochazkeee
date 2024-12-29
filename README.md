@@ -21,7 +21,7 @@
     <tr>
         <td style="padding: 10px;">Language</td>
         <td style="padding: 10px;">
-            <img src="https://img.shields.io/badge/-Python-#ff87c5?style=flat&logo=Python&logoColor=white" alt="Python Badge"> 
+            <img src="https://img.shields.io/badge/-Python-%23ff87c5?style=flat&logo=Python&logoColor=white" alt="Python Badge"> 
             <img src="https://img.shields.io/badge/-Pycharm-3776AB?style=flat&logo=Pycharm&logoColor=white" alt="Pycharm Badge"> 
             <img src="https://img.shields.io/badge/-Django-3776AB?style=flat&logo=Django&logoColor=white" alt="Django Badge">  
             <img src="https://img.shields.io/badge/-PyQt-004400?style=flat&logo=Qt" alt="PyQt Badge">
