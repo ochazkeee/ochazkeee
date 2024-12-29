@@ -33,12 +33,12 @@
             <img src="https://img.shields.io/badge/-VS code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS code Badge">
         </td>
     </tr>
-    <!--<tr>
+    <tr>
         <td style="padding: 10px;">Databases</td>
         <td style="padding: 10px;">
             <img src="https://img.shields.io/badge/-MySQL-444444?style=flat&logo=MySQL" alt="MySQL Badge"> 
         </td>
-    </tr> -->
+    </tr>
     <tr>
         <td style="padding: 10px;">Domain Knowledge</td>
         <td style="padding: 10px;">
