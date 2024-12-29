@@ -33,12 +33,17 @@
             <img src="https://img.shields.io/badge/-VS code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS code Badge">
         </td>
     </tr>
+    <!--<tr>
+        <td style="padding: 10px;">Databases</td>
+        <td style="padding: 10px;">
+            <img src="https://img.shields.io/badge/-MySQL-444444?style=flat&logo=MySQL" alt="MySQL Badge"> 
+        </td>
+    </tr> -->
     <tr>
         <td style="padding: 10px;">Domain Knowledge</td>
         <td style="padding: 10px;">
             <img src="https://img.shields.io/badge/-Machine%20Learning-01D277?style=flat&logoColor=white" alt="Machine Learning Badge"> 
-            <img src="https://img.shields.io/badge/-Computer%20Science-FAB040?style=flat&logoColor=white" alt="Computer Science Badge"> 
-            <img src="https://img.shields.io/badge/-Electrical%20Engineering-4C8CBF?style=flat&logoColor=white" alt="Electrical Engineering Badge"> 
+            <img src="https://img.shields.io/badge/-Computer%20Vision-FAB040?style=flat&logoColor=white" alt="Computer Vision Badge"> 
             <img src="https://img.shields.io/badge/-Software%20Development-FF6600?style=flat&logoColor=white" alt="Software Development Badge">
         </td>
     </tr>
@@ -47,18 +52,8 @@
         <td style="padding: 10px;">
             <img src="https://img.shields.io/badge/-Git-004400?style=flat&logo=git&logoColor=white" alt="Git Badge"> 
             <img src="https://img.shields.io/badge/-GitHub-444444?style=flat&logo=github" alt="GitHub Badge"> 
-        </td>
-    </tr>
-    <tr>
-        <td style="padding: 10px;">Databases</td>
-        <td style="padding: 10px;">
-            <img src="https://img.shields.io/badge/-MySQL-444444?style=flat&logo=MySQL" alt="MySQL Badge"> 
-        </td>
-    </tr>
-    <tr>
-        <td style="padding: 10px;">Machine Learning / Deep Learning frameworks</td>
-        <td style="padding: 10px;">
-            <img src="http://img.shields.io/badge/-Jupyter%20Notebook-eee?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAQCAMAAAARSr4IAAACGVBMVEVhYmJdYWT/fBfzdyaqdlV2dnfcdC9udnz5dyKUaU3wdicCO2CzZzVdUkpOTk5MTk60ZzUAAP/XcC3fcivgciv/lArAajLqdSifYjrydyajnJjEjWifnp3FjGcAAACenp52dnd2dnd2dndhYmJhYmIxW3bzdybzdybzdybzdybzdyb/dxpydnl2dnd2dndhYmJgYmOda0r0dyXzdybzdybzdybdyb1dyX9dx/2dyXzdybzdybzdyb+eiPzdybzdybzdyb/ghz8eSQ3SFT/tABNTk5HTFBMTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5NTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5O" alt="Jupyter Notebook Badge">
+            <img src="https://img.shields.io/badge/-Anaconda-%2327ba0d?style=flat&logo=anaconda" alt="Anaconda Badge">
+            <img src="https://img.shields.io/badge/-Slack-%2327ba0d?style=flat&logo=Slack" alt="Slack Badge">
         </td>
     </tr>
 </table>
