@@ -29,7 +29,7 @@
         <td style="padding: 10px;">IDE</td>
         <td style="padding: 10px;">
             <img src="https://img.shields.io/badge/-Pycharm-%2385e848?style=flat&logo=Pycharm&logoColor=white" alt="Pycharm Badge"> 
-            <img src="https://img.shields.io/badge/-Clion-%233bc4a7?style=flat&logo=Clion&logoColor=white&fontColor=black" alt="Clion Badge">  
+            <img src="https://img.shields.io/badge/-Clion-%233bc4a7?style=flat&logo=Clion&logoColor=white" alt="Clion Badge" style="color: black;">  
             <img src="https://img.shields.io/badge/-PyQt-004400?style=flat&logo=Qt" alt="PyQt Badge">
             <img src="https://img.shields.io/badge/-C-66CC66?style=flat&logo=C&logoColor=A8B9CC" alt="C Badge">
             <img src="https://img.shields.io/badge/-C++-66CC66?style=flat&logo=C%2B%2B&logoColor=00599C" alt="C++ Badge">
