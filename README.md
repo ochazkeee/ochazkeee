@@ -22,17 +22,14 @@
         <td style="padding: 10px;">Language</td>
         <td style="padding: 10px;">
             <img src="https://img.shields.io/badge/-Python-%23ff87c5?style=flat&logo=Python&logoColor=white" alt="Python Badge"> 
-            <img src="https://img.shields.io/badge/-C-%2398b6fa?style=flat&logo=C&logoColor=A8B9CC" alt="C Badge">
-            <img src="https://img.shields.io/badge/-C++-66CC66?style=flat&logo=C%2B%2B&logoColor=00599C" alt="C++ Badge">
-            <img src="https://img.shields.io/badge/-Bash-444444?style=flat&logo=GnuBash" alt="Bash Badge">
+            <img src="https://img.shields.io/badge/-C-%2398b6fa?style=flat&logo=C&logoColor=white" alt="C Badge">
         </td>
     </tr>
         <tr>
         <td style="padding: 10px;">IDE</td>
         <td style="padding: 10px;">
-            <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white" alt="Python Badge"> 
-            <img src="https://img.shields.io/badge/-Pycharm-3776AB?style=flat&logo=Pycharm&logoColor=white" alt="Pycharm Badge"> 
-            <img src="https://img.shields.io/badge/-Django-3776AB?style=flat&logo=Django&logoColor=white" alt="Django Badge">  
+            <img src="https://img.shields.io/badge/-Pycharm-%2394ff52?style=flat&logo=Pycharm&logoColor=white" alt="Pycharm Badge"> 
+            <img src="https://img.shields.io/badge/-Clion-3776AB?style=flat&logo=Clion&logoColor=white" alt="Clion Badge">  
             <img src="https://img.shields.io/badge/-PyQt-004400?style=flat&logo=Qt" alt="PyQt Badge">
             <img src="https://img.shields.io/badge/-C-66CC66?style=flat&logo=C&logoColor=A8B9CC" alt="C Badge">
             <img src="https://img.shields.io/badge/-C++-66CC66?style=flat&logo=C%2B%2B&logoColor=00599C" alt="C++ Badge">
