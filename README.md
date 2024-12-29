@@ -45,13 +45,8 @@
     <tr>
         <td style="padding: 10px;">CI / CD</td>
         <td style="padding: 10px;">
-            <img src="https://img.shields.io/badge/-Markdown-2088FF?style=flat&logo=Markdown&logoColor=white" alt="Markdown Badge"> 
-            <img src="https://img.shields.io/badge/-Git-004400?style=flat&logo=git" alt="Git Badge"> 
+            <img src="https://img.shields.io/badge/-Git-004400?style=flat&logo=git&logoColor=white" alt="Git Badge"> 
             <img src="https://img.shields.io/badge/-GitHub-444444?style=flat&logo=github" alt="GitHub Badge"> 
-            <img src="https://img.shields.io/badge/-GitLab-444444?style=flat&logo=GitLab" alt="GitLab Badge"> 
-            <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Badge"> 
-            <img src="https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" alt="PyCharm Badge"> 
-            <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code Badge">
         </td>
     </tr>
     <tr>
