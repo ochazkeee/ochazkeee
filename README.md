@@ -43,7 +43,7 @@
         </td>
     </tr>
     <tr>
-        <td style="padding: 10px;">CI / CD</td>
+        <td style="padding: 10px;">Tools</td>
         <td style="padding: 10px;">
             <img src="https://img.shields.io/badge/-Git-004400?style=flat&logo=git&logoColor=white" alt="Git Badge"> 
             <img src="https://img.shields.io/badge/-GitHub-444444?style=flat&logo=github" alt="GitHub Badge"> 
@@ -53,8 +53,6 @@
         <td style="padding: 10px;">Databases</td>
         <td style="padding: 10px;">
             <img src="https://img.shields.io/badge/-MySQL-444444?style=flat&logo=MySQL" alt="MySQL Badge"> 
-            <img src="https://img.shields.io/badge/-SQLite-444444?style=flat&logo=SQLite" alt="SQLite Badge"> 
-            <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL Badge">
         </td>
     </tr>
     <tr>
