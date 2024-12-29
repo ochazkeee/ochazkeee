@@ -30,7 +30,7 @@
         <td style="padding: 10px;">
             <img src="https://img.shields.io/badge/-Pycharm-%2385e848?style=flat&logo=Pycharm&logoColor=white" alt="Pycharm Badge"> 
             <img src="https://img.shields.io/badge/-Clion-%233bc4a7?style=flat&logo=Clion&logoColor=white" alt="Clion Badge">  
-            <img src="https://img.shields.io/badge/-VS code-%23a2e8cd?style=flat&logo=visual-studio-code&logoColor=white" alt="VS code Badge">
+            <img src="https://img.shields.io/badge/-VS code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS code Badge">
         </td>
     </tr>
     <tr>
