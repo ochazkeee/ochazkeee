@@ -19,7 +19,7 @@
         <th style="padding: 20px; font-size: 18px; background-color: #f4f4f4;">Data</th>
     </tr>
     <tr>
-        <td style="padding: 10px;">**Language / IDE**</td>
+        <td style="padding: 10px;">Language / IDE</td>
         <td style="padding: 10px;">
             <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white" alt="Python Badge"> 
             <img src="https://img.shields.io/badge/-Pycharm-3776AB?style=flat&logo=Pycharm&logoColor=white" alt="Pycharm Badge"> 
@@ -31,7 +31,7 @@
         </td>
     </tr>
     <tr>
-        <td style="padding: 10px;">**Domain Knowledge**</td>
+        <td style="padding: 10px;">Domain Knowledge</td>
         <td style="padding: 10px;">
             <img src="https://img.shields.io/badge/-Machine%20Learning-01D277?style=flat&logoColor=white" alt="Machine Learning Badge"> 
             <img src="https://img.shields.io/badge/-Computer%20Science-FAB040?style=flat&logoColor=white" alt="Computer Science Badge"> 
@@ -40,7 +40,7 @@
         </td>
     </tr>
     <tr>
-        <td style="padding: 10px;">**CI / CD**</td>
+        <td style="padding: 10px;">CI / CD</td>
         <td style="padding: 10px;">
             <img src="https://img.shields.io/badge/-Markdown-2088FF?style=flat&logo=Markdown&logoColor=white" alt="Markdown Badge"> 
             <img src="https://img.shields.io/badge/-Git-004400?style=flat&logo=git" alt="Git Badge"> 
@@ -52,7 +52,7 @@
         </td>
     </tr>
     <tr>
-        <td style="padding: 10px;">**Databases**</td>
+        <td style="padding: 10px;">Databases</td>
         <td style="padding: 10px;">
             <img src="https://img.shields.io/badge/-MySQL-444444?style=flat&logo=MySQL" alt="MySQL Badge"> 
             <img src="https://img.shields.io/badge/-SQLite-444444?style=flat&logo=SQLite" alt="SQLite Badge"> 
@@ -60,7 +60,7 @@
         </td>
     </tr>
     <tr>
-        <td style="padding: 10px;">**Machine Learning / Deep Learning frameworks**</td>
+        <td style="padding: 10px;">Machine Learning / Deep Learning frameworks</td>
         <td style="padding: 10px;">
             <img src="http://img.shields.io/badge/-Jupyter%20Notebook-eee?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAQCAMAAAARSr4IAAACGVBMVEVhYmJdYWT/fBfzdyaqdlV2dnfcdC9udnz5dyKUaU3wdicCO2CzZzVdUkpOTk5MTk60ZzUAAP/XcC3fcivgciv/lArAajLqdSifYjrydyajnJjEjWifnp3FjGcAAACenp52dnd2dnd2dndhYmJhYmIxW3bzdybzdybzdybzdybzdyb/dxpydnl2dnd2dndhYmJgYmOda0r0dyXzdybzdybzdybdyb1dyX9dx/2dyXzdybzdybzdyb+eiPzdybzdybzdyb/ghz8eSQ3SFT/tABNTk5HTFBMTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5NTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5O" alt="Jupyter Notebook Badge">
         </td>
